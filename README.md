@@ -1,0 +1,5 @@
+- 👋 Hi, I’m German Saracca
+- 👀 I’m interested in Frontend and Web development.
+- 🌱 I’m currently learning React Native and NextJS.
+- 💞️ I’m looking to collaborate on UI frameworks.
+- 📫 How to reach me: gersaracca@gmail.com
